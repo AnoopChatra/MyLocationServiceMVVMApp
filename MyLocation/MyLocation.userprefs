@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{71470610-F1AD-4667-98F0-26964D37910C}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLocation/Views/FirstPage.xaml">
+    <Files>
+      <File FileName="MyLocationTest/Test.cs" Line="19" Column="33" />
+      <File FileName="MyLocationTest/Services/TestNavigationService.cs" Line="19" Column="1" />
+      <File FileName="MyLocationTest/Services/TestLocationService.cs" Line="19" Column="1" />
+      <File FileName="MyLocation/ViewModels/INavigationService.cs" Line="7" Column="14" />
+      <File FileName="MyLocation/ViewModels/SecondVM.cs" Line="51" Column="1" />
+      <File FileName="MyLocation/Views/NavigationService.cs" Line="25" Column="1" />
+      <File FileName="Droid/MyLocationService.cs" Line="23" Column="10" />
+      <File FileName="MyLocation/Views/SecondPage.xaml.cs" Line="18" Column="35" />
+      <File FileName="MyLocation/Views/SecondPage.xaml" Line="14" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="28" Column="28" />
+      <File FileName="MyLocation/ViewModels/FirstVM.cs" Line="24" Column="35" />
+      <File FileName="MyLocation/App.xaml" Line="7" Column="1" />
+      <File FileName="MyLocation/Views/FirstPage.xaml.cs" Line="10" Column="30" />
+      <File FileName="MyLocation/App.xaml.cs" Line="13" Column="58" />
+      <File FileName="MyLocation/Views/FirstPage.xaml" Line="4" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyLocation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.02DC7DB8-FD03-43B2-9DA1-703342AE05E1">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MyLocation.iOS>
+  <MonoDevelop.Ide.ItemProperties.MyLocationTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anoopchatra/Projects/MyLocation/Droid/MyLocationService.cs" relfile="Droid/MyLocationService.cs" line="73" column="1" />
+      <Breakpoint file="/Users/anoopchatra/Projects/MyLocation/MyLocation/ViewModels/SecondVM.cs" relfile="MyLocation/ViewModels/SecondVM.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyLocation.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>

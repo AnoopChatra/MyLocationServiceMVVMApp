@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="MyLocation.Views.SecondPage">
+	<ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand"  HorizontalOptions="FillAndExpand">
+        <Label Text = "{Binding XCoordinate}" VerticalOptions = "Center" HorizontalOptions = "Center"/>
+            <Label Text = "{Binding YCoordinate}" VerticalOptions = "Center" HorizontalOptions = "Center" />
+            <Button Text="Back" TextColor="Navy" Font="20" Command="{Binding BackCommand}" VerticalOptions = "Center" HorizontalOptions="Center" />
+             <Button Text="Show" TextColor="Navy" Font="20" Command="{Binding ShowCommand}" VerticalOptions = "Center" HorizontalOptions="Center" />
+             <Button Text="Clear" TextColor="Navy" Font="20" Command="{Binding ClearCommand}" VerticalOptions = "Center" HorizontalOptions="Center" />
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>
